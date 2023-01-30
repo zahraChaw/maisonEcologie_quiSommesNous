@@ -23,6 +23,9 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Cormorant', serif;
 	font-weight: 700;
 }
+.has-large-font-size{
+	font-size:1em !important;
+}
 
 .main-navigation ul li a {
 	width: 100%;
