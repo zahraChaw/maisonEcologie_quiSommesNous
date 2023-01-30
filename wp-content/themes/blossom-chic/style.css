@@ -395,7 +395,9 @@ body {
 /* Site Structure */
 .container {
 	max-width: 1170px;
+	
 }
+
 .single-post .main-content {
 	margin-top: 2rem;
 }
